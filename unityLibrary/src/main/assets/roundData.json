@@ -1,0 +1,50 @@
+[
+    {
+        "round": 1,
+        "demons": {
+            "A": 4,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "midBoss": 0,
+            "finalBoss": 0
+        }
+    },
+    {
+        "round": 2,
+        "demons": {
+            "A": 5,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "midBoss": 0,
+            "finalBoss": 0
+        }
+    },
+    {
+        "round": 3,
+        "demons": {
+            "A": 6,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "midBoss": 0,
+            "finalBoss": 0
+        }
+    },
+    {
+        "round": 4,
+        "demons": {
+            "A": 6,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "midBoss": 0,
+            "finalBoss": 0
+        }
+    }
+]
